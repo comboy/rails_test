@@ -3,7 +3,6 @@ require 'test_helper'
 class FooTest < ActiveSupport::TestCase
   # Replace this with your real tests.
   test "the truth" do
-    raise "moo"
     assert true
   end
 
