@@ -10,4 +10,8 @@ class FooTest < ActiveSupport::TestCase
     assert true
   end
 
+  test "foo bar somethingn" do
+    assert Foo.must_true
+  end
+
 end
