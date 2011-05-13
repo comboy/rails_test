@@ -8,7 +8,6 @@ class FooTest < ActiveSupport::TestCase
   end
 
   test "something else" do
-    assert true
     assert_equal 2,2,0
   end
 
