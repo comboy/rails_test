@@ -12,4 +12,3 @@ class ActiveSupport::TestCase
   # Add more helper methods to be used by all tests here...
 end
 
-raise "no test running for you!"
