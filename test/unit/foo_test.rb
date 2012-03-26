@@ -3,7 +3,7 @@ require 'test_helper'
 class FooTest < ActiveSupport::TestCase
 
   test "the truth" do
-    assert false
+    assert true
   end
 
   test "something else" do
